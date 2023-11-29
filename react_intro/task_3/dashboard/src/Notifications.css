@@ -1,0 +1,12 @@
+.Notifications {
+    border: 2px dashed red;
+    padding-top: 0;
+    font-size: 1.5rem;
+}
+.Notifications [data-priority="urgent"] {
+    color: red;
+}
+.Notifications p {
+    padding-top: 0;
+    padding-bottom: 0;
+}
